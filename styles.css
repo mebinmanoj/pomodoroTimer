@@ -1,0 +1,47 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+
+
+#timer {
+    font-family: 'Orbitron';
+    color: rgb(0, 0, 0);
+    font-size: 3em;
+}
+
+
+#timer:hover {
+    color: yellow;
+}
+
+
+.buttons {
+    font-family: 'Roboto';
+    color: white;
+}
+
+#start {
+    color: green;
+}
+
+#pause {
+    color: rgb(34, 34, 1);
+}
+
+#stop {
+    color: red;
+}
+
+
+button:hover {
+    border: 2px solid black;
+}
+
+
+.timer-red {
+    color: red;
+    background-color: black;
+    border-radius:5px;
+}
